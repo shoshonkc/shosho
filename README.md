@@ -1,2 +1,0 @@
-# shosho
-shoshonkcが作ったサイトです
